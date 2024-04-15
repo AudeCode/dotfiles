@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aude.cordemans@gmail.com
+	name = Aude Cordemans
